@@ -5,5 +5,6 @@ public class Test {
         System.out.println("我是主分支，我又来了");
         System.out.println("我是hot-fix分支，我要改改改hhh");
         System.out.println("真的最后一次hot分支提交！！！！！！骗你是狗");
+        System.out.println("山重水复疑无路");
     }
 }
