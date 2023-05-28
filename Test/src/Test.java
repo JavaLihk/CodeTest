@@ -7,5 +7,6 @@ public class Test {
         System.out.println("真的最后一次hot分支提交！！！！！！骗你是狗");
         System.out.println("好吧，我是小狗。。。。");
         System.out.println("山重水复疑无路");
+        System.out.println("push远程库");
     }
 }
