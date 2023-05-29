@@ -8,5 +8,7 @@ public class Test {
         System.out.println("好吧，我是小狗。。。。");
         System.out.println("山重水复疑无路");
         System.out.println("push远程库");
+        System.out.println("柳暗花明又一村");
+        
     }
 }
